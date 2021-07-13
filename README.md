@@ -1,5 +1,5 @@
-# PGE-receptor-model
-ODE-based model describing the influence of several PGE-receptors on the PKA-pathway in platelets
+# Prostaglandin-receptor-model
+ODE-based model describing the influence of several PGE-receptors on the cAMP-pathway in platelets
 
 Mol Biosyst. 2013 Oct;9(10):2520-9. doi: 10.1039/c3mb70142e.
 
